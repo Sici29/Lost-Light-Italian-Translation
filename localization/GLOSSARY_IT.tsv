@@ -1,0 +1,32 @@
+id	originale	italiano	categoria	contesto	fonte	stato
+shelter	Shelter / 避难所	rifugio	luogo/sistema	rifugio, al rifugio; maiuscola secondo inglese ID/contesto	Corpus build 25184116; lotto 001; nessun canone IT ufficiale attestato	adottato nel progetto
+storage	Storage / 仓库	magazzino	interfaccia/sistema	magazzino, nel magazzino; nessuna confusione con capacità di carico	Corpus build 25184116; lotto 001; nessun canone IT ufficiale attestato	adottato nel progetto
+loadout	Loadout / 配装	equipaggiamento	interfaccia	Equipaggiamento come nome schermata; maiuscola secondo inglese ID/contesto	Corpus build 25184116; lotto 001; nessun canone IT ufficiale attestato	adottato nel progetto
+weapon_table	Weapon table / 改装台	banco di modifica	costruzione	banco di modifica delle armi; distinto dal banco da lavoro	Corpus build 25184116; lotto 001; nessun canone IT ufficiale attestato	adottato nel progetto
+workbench	Workbench / 金工台	banco da lavoro	costruzione	maschile, al banco da lavoro; funzione di fabbricazione	Corpus build 25184116; lotto 001; nessun canone IT ufficiale attestato	adottato nel progetto
+exclusion_zone	Exclusion Zone / 封锁区	zona di esclusione	luogo/sistema	femminile, nella zona di esclusione	Corpus build 25184116; lotto 001; nessun canone IT ufficiale attestato	adottato nel progetto
+evacuation	evacuate / 撤离	evacuare	meccanica	punto di evacuazione; condizione di uscita riuscita	Corpus build 25184116; lotto 001; nessun canone IT ufficiale attestato	adottato nel progetto
+health	HP / 生命值	PV	statistica	punti vita; sigla invariabile	Corpus build 25184116; lotto 001; nessun canone IT ufficiale attestato	adottato nel progetto
+loot	loot / 战利品	bottino	oggetti	maschile collettivo	Corpus build 25184116; lotto 001; nessun canone IT ufficiale attestato	adottato nel progetto
+nutritional_unit	Nutritional Resupply Unit / 营养装置	unità nutrizionale	costruzione	femminile invariabile; unità che mantiene energia e acqua	Corpus build 25184116; lotto 001; nessun canone IT ufficiale attestato	adottato nel progetto
+receiver	Receiver / 机匣	castello	componente arma	maschile; Upper/Lower=Superiore/Inferiore; Rail=con Slitta; Cover=Coperchio; casing inglese per unità	Corpus build 25184116; audit 126 unità 2026-10-13; Winchester Ranger fig.23 p.21; scelta di progetto	adottato
+insulated_wire	Insulated Wire / 绝缘线圈	cavo isolato	materiale	cavi isolati; cinese indica bobina, verificare oggetto	Corpus build 25184116; lotto 001; nessun canone IT ufficiale attestato	provvisorio
+pet	pet / 宠物	pet	sistema	termine mantenuto solo in bozza in attesa di identificare natura e denominazione	Corpus build 25184116; lotto 001; nessun canone IT ufficiale attestato	provvisorio
+hammer_claw	Hammer / 羊角锤	martello da carpentiere	oggetto/materiale	maschile; Martello da Carpentiere quando etichetta Title Case	276bf3e0127ac2cfcec803056ddc1603; 3ba8f948616219387dc79f4cdb7dfa1d; spagnolo lascia Hammer, originale e giapponese specificano artiglio	adottato nel progetto
+lockbox	Lockbox / Caja de seguridad / 保险箱	cassetta di sicurezza	contenitore	femminile; protegge contenuto dalla perdita in battaglia; maiuscole secondo English	414bf171aa1219f7aed94b7ab9e21f54, tutorial; nessun canone IT attestato	adottato nel progetto
+stamina	Stamina / vigor / 体力	vigore	statistica	maschile, Vigore come etichetta; distinto da PV e futura Endurance da verificare	tutorial Hungry and Thirsty; spagnolo/originale	adottato nel progetto
+firefly	Firefly / luciérnaga / 萤火虫	Lucciola	designazione/fazione	femminile grammaticale, plurale Lucciole; non implica sesso del referente; maiuscole English	sub_guide, istruzioni e riferimenti alle Fireflies; nessun canone IT ufficiale	adottato nel progetto
+watchers	Watchers / vigilantes / 守望军	Vigilanti	fazione	plurale designazione gruppo di guardia; non tradurre altre occorrenze watcher automaticamente	Mt. Akiyama sub_guide, risorse zona ville; nessun canone IT ufficiale	adottato nel progetto
+marauders	Marauders / merodeadores / 游荡者	Predoni	fazione	maschile plurale come designazione; italiano scelto nel progetto, non canone	sub_guide, tutorial Armatura classe 2	adottato nel progetto
+armor	Armor / armadura / 护甲	armatura	equipaggiamento	femminile generico; Class → Classe; 防弹衣/bulletproof vest → giubbotto antiproiettile quando specifico	sub_guide Class 2 Armor e Tap Armor	adottato nel progetto
+radiation_sandstorm	Radiation Sandstorm / 辐射尘暴	tempesta di sabbia radioattiva	meccanica	femminile; Tempesta di Sabbia Radioattiva come etichetta Title Case	3584c7fad079cfd7fe45316ce2dd33f5; inglese/originale, spagnolo assente	adottato nel progetto
+chest_rig	chest rig / arnés de pecho / 弹挂	gilet tattico	equipaggiamento	maschile; distinto da armatura; contiene caricatori equipaggiati	sub_guide, ricarica automatica caricatori, lotto 011	adottato nel progetto
+electric_breaker	Electric Brake / 电闸 / ブレーカー	interruttore elettrico	edificio/sistema	Impianto elettrico Rifugio; casing inglese; non freno arma	Sei ID lotto021; ES assente, originale/JA concordi	adottato nel progetto
+military_rank_0	Reserve / 预备役	Riserva	grado militare	Categoria originale per ID; numero romano inglese identico	Audit manuale 36 unità 2026-10-13	adottato
+military_rank_1	Private / 士兵	Soldato	grado militare	Categoria originale per ID; numero romano inglese identico	Audit manuale 36 unità 2026-10-13	adottato
+military_rank_2	Officer / NCO / 士官	Sottufficiale	grado militare	Categoria originale per ID; numero romano inglese identico	Audit manuale 36 unità 2026-10-13	adottato
+military_rank_3	Officer / Master Sergeant / 军士长	Sergente Maggiore	grado militare	Categoria originale per ID; numero romano inglese identico	Audit manuale 36 unità 2026-10-13	adottato
+military_rank_4	Lieutenant / 尉官	Ufficiale Subalterno	grado militare	Categoria originale per ID; numero romano inglese identico	Audit manuale 36 unità 2026-10-13	adottato
+military_rank_5	Major / 校官	Ufficiale Superiore	grado militare	Categoria originale per ID; numero romano inglese identico	Audit manuale 36 unità 2026-10-13	adottato
+military_rank_6	General / 将官	Generale	grado militare	Categoria originale per ID; numero romano inglese identico	Audit manuale 36 unità 2026-10-13	adottato
+military_rank_7	General of the Army / 五星上将	Generale dell’Esercito	grado militare	Categoria originale per ID; numero romano inglese identico	Audit manuale 36 unità 2026-10-13	adottato

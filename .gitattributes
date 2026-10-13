@@ -1,0 +1,4 @@
+# Payload bytes are checked by SHA-256; checkout must never convert newlines.
+payload/** -text
+assets/** -text
+*.jsonl text eol=lf

@@ -1,0 +1,18 @@
+{
+  "supported_builds": [
+    "hot_patch_570_2026-10-08"
+  ],
+  "latest_build": "hot_patch_570_2026-10-08",
+  "translation_version": "1.0.0",
+  "strings_total": 63217,
+  "strings_translated": 63217,
+  "coverage_pct": null,
+  "coverage_note": "63.217 unità e 2.993 layout verificati; 5 riferimenti grafici CJK usano nomi cosmetici inglesi già presenti in 2 atlanti. Runtime completo non provato.",
+  "layout_files": 2993,
+  "visible_cjk_units": 0,
+  "partial_english_candidates": 0,
+  "erroneous_blank_units": 0,
+  "runtime_verified": false,
+  "atlas_files": 2,
+  "atlas_frame_redirects": 5
+}

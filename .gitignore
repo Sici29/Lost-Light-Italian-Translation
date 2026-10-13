@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.log
+build/
+dist/
+payload/31/
+payload/42/
+payload/lazy_code/
